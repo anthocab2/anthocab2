@@ -1,10 +1,10 @@
 # Hi, I'm Anthony Caban 👋
 
-### Python Backend Developer | Software Engineering Student
+### Python Backend Developer | Software Engineering Graduate
 
-I'm a Software Engineering student at **Holberton School Puerto Rico** focused on building reliable backend systems with Python.
+I'm a Software Engineering graduate of **Holberton School Puerto Rico** focused on building reliable backend systems with Python.
 
-My work currently spans backend development, databases, APIs, automated testing, data infrastructure, reproducible research systems, and programming language development.
+My portfolio combines Holberton coursework, small Python exercises, and independent projects. I am seeking a junior Python/backend software engineering role.
 
 I enjoy going beyond making software simply "work." I am especially interested in **determinism, reproducibility, clean architecture, testing, provenance, and clearly defined system boundaries**.
 
@@ -39,7 +39,7 @@ I am strengthening my backend engineering skills through projects involving:
 
 My structured engineering practice repository focused on developing strong Python and backend fundamentals.
 
-It documents my progression through:
+Its published exercises cover Python fundamentals, functions, input/output, and validation. The following list describes my broader learning path; APIs, databases, and automated testing are not implemented in this lab yet:
 
 - Python fundamentals
 - Functions and reusable logic
@@ -111,7 +111,7 @@ Future milestones include an interpreter, CLI, control flow, functions, collecti
 
 ## 🏗️ Private Engineering Projects
 
-Some of my more advanced engineering work is currently maintained in private repositories.
+Some independent work is maintained in private repositories. These projects are not accessible as public portfolio evidence; their scope and status are described separately from the public projects above.
 
 ### Centauro
 
@@ -270,7 +270,7 @@ I want my portfolio to show not only what technologies I have used, but also **h
 
 ## 📍 About Me
 
-- 🎓 Software Engineering student at Holberton School Puerto Rico
+- 🎓 Software Engineering graduate of Holberton School Puerto Rico
 - 🐍 Main focus: Python Backend Engineering
 - 🧪 Interested in testing, reproducibility, and system reliability
 - 🗄️ Building experience with SQL and MongoDB systems
@@ -287,3 +287,9 @@ I want my portfolio to show not only what technologies I have used, but also **h
 ---
 
 > Build carefully. Verify what works. Document what does not. Improve from evidence.
+
+## Education and attribution
+
+Holberton — Software Engineering Intensive Program, Certificate of Achievement, San Juan PR; graduated November 13, 2026.
+
+Documentation review assisted by Codex. See each project's documentation for its scope, implementation status, and attribution.
