@@ -1,9 +1,9 @@
 # Anthony Caban
 
-**Software Engineering Graduate | Junior Python Backend Developer**  
+**Full-Stack Software Development Graduate | Junior Python Backend Developer**  
 Puerto Rico · Open to junior software engineering and backend opportunities
 
-I approach software development by defining the problem first, identifying constraints, and building **testable, maintainable solutions**. My work includes Python backend development, data ingestion, language tooling, and reproducible research. I use AI-assisted development tools with explicit acceptance criteria and human review.
+I graduated from **Holberton Coding School Puerto Rico's Software Engineering Intensive Program**, with hands-on full-stack training and a Python backend focus. I approach software development by defining the problem first, identifying constraints, and building **testable, maintainable solutions**. My work includes Python backend development, data ingestion, language tooling, and reproducible research. I use AI-assisted development tools with explicit acceptance criteria and human review.
 
 ## Selected projects
 
@@ -34,6 +34,8 @@ AI tools help with execution; they do not replace understanding, technical accou
 
 ## Education
 
-**Holberton School Puerto Rico** — Software Engineering Intensive Program, Certificate of Achievement (November 2026).
+**Holberton Coding School Puerto Rico** — **Full-Stack Software Development**, Software Engineering Intensive Program; Certificate of Achievement (November 2026).
+
+**Relevant training:** C, Python, algorithms and data structures, HTML/CSS, JavaScript/TypeScript, REST APIs, SQL/ORM, Linux, Git, Docker, and testing.
 
 **Career direction:** Junior Software Engineer / Python Backend Developer. Long-term interest in data-intensive systems and machine learning.
