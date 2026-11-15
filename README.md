@@ -1,41 +1,55 @@
 # Anthony Caban
 
-**Full-Stack Software Development Graduate | Junior Python Backend Developer**  
-Puerto Rico · Open to junior software engineering and backend opportunities
+**Junior Software Engineer | Python Backend Developer**  
+Full-Stack Software Development Graduate · Puerto Rico
 
-I graduated from **Holberton Coding School Puerto Rico's Software Engineering Intensive Program**, with hands-on full-stack training and a Python backend focus. I approach software development by defining the problem first, identifying constraints, and building **testable, maintainable solutions**. My work includes Python backend development, data ingestion, language tooling, and reproducible research. I use AI-assisted development tools with explicit acceptance criteria and human review.
+I build software to solve problems in data processing, backend workflows, and developer tooling. I graduated from **Holberton Coding School Puerto Rico** and focus on Python, testable systems, and clear technical decisions.
 
-## Selected projects
+## Featured projects
 
-| Project | Engineering work and evidence |
-| --- | --- |
-| **[Centauro Bridge](https://github.com/anthocab2/Centauro-Bridge)** · **Featured public project** | Python application for data ingestion, MongoDB Atlas persistence, provenance verification, research cases, and descriptive analysis. Built by adapting a selected engine from Centauro Atlas Bridge. [Architecture and source history](https://github.com/anthocab2/Centauro-Bridge/blob/main/docs/project-story.md). |
-| **[Auren](https://github.com/anthocab2/auren-lang)** · **Public language prototype** | Implemented lexer, recursive-descent parser, AST, operator precedence, source-location errors, and automated tests in Python. **Interpreter and 2D runtime are planned, not implemented.** |
-| **PEGazu** · **Private research project** | Independent quantitative research software: versioned datasets, reproducible experiments, predeclared hypotheses, and temporal holdout evaluation. Recorded results that **did not support** the tested hypothesis rather than presenting them as a trading advantage. Source remains private. |
-| **Centauro Atlas Bridge** · **Private infrastructure project** | Python ingestion and evidence pipeline with pagination, checkpoints, resumable processing, integrity checks, and idempotency. Selected code was reused in the public Centauro Bridge project; [see the documented provenance](https://github.com/anthocab2/Centauro-Bridge/blob/main/docs/engine-provenance.json). Original repository remains private. |
-| **[HBnB](https://github.com/anthocab2/holbertonschool-hbnb)** · **Holberton coursework** | Flask REST APIs, object modeling, validation, authentication, and database concepts developed through an academic project. |
+### [Centauro Bridge](https://github.com/anthocab2/Centauro-Bridge) · Public
 
-## Technical focus
+**Problem:** Collecting market data is not enough when researchers need to verify its origin, preserve it, and reproduce an analysis.
 
-**Backend and data:** Python, Flask, REST APIs, SQL, SQLAlchemy, MongoDB Atlas, JSON  
-**Engineering practices:** OOP, data validation, pytest, unittest, Git, Linux/WSL, reproducible workflows  
-**Additional coursework:** C, JavaScript, Docker, web development
+**Solution:** A Python application for data ingestion, MongoDB Atlas persistence, provenance checks, saved research cases, and descriptive analysis. It adapts selected components from the private Centauro Atlas Bridge engine, with [documented source history](https://github.com/anthocab2/Centauro-Bridge/blob/main/docs/project-story.md).
 
-I distinguish **implemented functionality, local-only work, coursework, and future plans** in project documentation.
+**Skills demonstrated:** Python · Data ingestion · MongoDB Atlas · Validation · Reproducibility
 
-## Problem-solving and AI-assisted workflow
+### [Auren — Experimental Programming Language](https://github.com/anthocab2/auren-lang) · Public
 
-1. **Define the bottleneck:** describe the problem, constraints, and acceptance criteria before changing code.
-2. **Design a bounded solution:** reuse verified components where appropriate; keep tasks small enough to review.
-3. **Develop and test:** use ChatGPT for research and planning, and Codex for implementation support, debugging, and tests.
-4. **Verify and decide:** inspect diffs, review failures and evidence, document limitations, and approve changes deliberately.
+**Problem:** A programming language needs a reliable way to turn source text into structured, validated syntax before it can execute programs.
 
-AI tools help with execution; they do not replace understanding, technical accountability, or verification.
+**Solution:** A Python lexer and recursive-descent parser that produce an abstract syntax tree (AST), handle operator precedence, report syntax errors with source locations, and have automated tests. **The interpreter and graphics runtime are not implemented yet.**
+
+**Skills demonstrated:** Python · Parsing · Data structures · Automated testing
+
+### PEGazu · Private
+
+**Problem:** Quantitative research is difficult to evaluate when datasets, methods, and unsuccessful results cannot be reproduced.
+
+**Solution:** Research workflows using versioned datasets, predeclared hypotheses, statistical evaluation, and temporal replication. The tested hypothesis was **not supported**; the project does not claim a trading advantage or execute trades. **Source code remains private.**
+
+### Centauro Atlas Bridge · Private
+
+**Problem:** External data ingestion can lose traceability or become difficult to recover after interruptions.
+
+**Solution:** Python infrastructure for bounded extraction, pagination, checkpoints, resumable ingestion, SHA-256 integrity verification, and idempotent storage. Selected engine code was reused in [Centauro Bridge](https://github.com/anthocab2/Centauro-Bridge/blob/main/docs/engine-provenance.json). **Original source remains private.**
+
+**Additional public work:** [HBnB — Flask REST API coursework](https://github.com/anthocab2/holbertonschool-hbnb) · [Software Engineering Lab](https://github.com/anthocab2/software-engineering-lab)
+
+## Technical skills
+
+- **Backend and data:** Python, Flask, REST APIs, SQL, SQLAlchemy, MongoDB Atlas, JSON
+- **Software engineering:** OOP, debugging, data validation, pytest, unittest, Git, Linux/WSL
+- **Full-stack coursework:** C, HTML/CSS, JavaScript, TypeScript, Docker
 
 ## Education
 
-**Holberton Coding School Puerto Rico** — **Full-Stack Software Development**, Software Engineering Intensive Program; Certificate of Achievement (November 2026).
+**Holberton Coding School Puerto Rico** — Full-Stack Software Development, Software Engineering Intensive Program  
+Certificate of Achievement · November 2026
 
-**Relevant training:** C, Python, algorithms and data structures, HTML/CSS, JavaScript/TypeScript, REST APIs, SQL/ORM, Linux, Git, Docker, and testing.
+## How I approach engineering
 
-**Career direction:** Junior Software Engineer / Python Backend Developer. Long-term interest in data-intensive systems and machine learning.
+I start with the problem and acceptance criteria, design a bounded solution, test its behavior, and document what the evidence supports and what remains unfinished.
+
+**Open to entry-level Software Engineer, Python Developer, and Backend Developer opportunities.**
