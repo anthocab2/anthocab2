@@ -1,7 +1,8 @@
 # Anthony Caban
 
 **Junior Software Engineer | Python Backend Developer**  
-Full-Stack Software Development Graduate · Puerto Rico
+Full-Stack Software Development Graduate · Puerto Rico  
+[LinkedIn](https://www.linkedin.com/in/anthony-caban-melendez-357a4744b/) · [GitHub repositories](https://github.com/anthocab2?tab=repositories)
 
 I build software to solve problems in data processing, backend workflows, and developer tooling. I graduated from **Holberton Coding School Puerto Rico** and focus on Python, testable systems, and clear technical decisions.
 
