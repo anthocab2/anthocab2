@@ -26,9 +26,11 @@ The current Python prototype implements a lexer, recursive-descent parser, abstr
 
 ### PEGazu — An Independent Research Idea · Private
 
-I started PEGazu to explore whether data infrastructure could eventually support an **AI-assisted system for researching trading strategies**. I began studying financial mathematics, chart patterns, and candlesticks. That interest developed into a more rigorous first step: **testing hypotheses against reproducible market data**, before considering any AI-based strategy generation.
+I started PEGazu to explore whether reliable market-data infrastructure could eventually support an **AI-assisted quantitative research system**. What began as an interest in financial mathematics and market behavior evolved into a more rigorous first step: building a reproducible laboratory for **testing hypotheses against market data before considering strategy generation or automation**.
 
-The implemented work includes versioned datasets, predeclared hypotheses, statistical evaluation, and temporal replication. The tested hypothesis was **not supported**, and that outcome was preserved as evidence. **There is no implemented AI strategy generator, automated trading, or demonstrated profitable strategy.** PEGazu operates independently from Centauro and its source code remains private.
+The implemented work includes deterministic evidence and dataset versioning, predeclared hypotheses, statistical evaluation, temporal replication, and research history. **The hypotheses tested so far have not met their predeclared support criteria, and those negative results were preserved rather than discarded or reinterpreted.**
+
+There is **no implemented AI strategy generator, automated trading system, or demonstrated profitable strategy**. PEGazu operates independently from Centauro, and its source code remains private.
 
 ### Centauro Atlas Bridge · Private
 
