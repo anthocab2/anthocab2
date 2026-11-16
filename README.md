@@ -16,19 +16,19 @@ I build software to solve problems in data processing, backend workflows, and de
 
 **Skills demonstrated:** Python · Data ingestion · MongoDB Atlas · Validation · Reproducibility
 
-### [Auren — Experimental Programming Language](https://github.com/anthocab2/auren-lang) · Public
+### [Auren — My Programming Language Project](https://github.com/anthocab2/auren-lang) · Public
 
-**Problem:** A programming language needs a reliable way to turn source text into structured, validated syntax before it can execute programs.
+I started Auren because I want to create my own programming language: expressive enough to evolve into a complex language, easier to read through clear English syntax, and eventually specialized for **2D games**.
 
-**Solution:** A Python lexer and recursive-descent parser that produce an abstract syntax tree (AST), handle operator precedence, report syntax errors with source locations, and have automated tests. **The interpreter and graphics runtime are not implemented yet.**
+The current Python prototype implements a lexer, recursive-descent parser, abstract syntax tree (AST), operator precedence, source-location errors, and automated tests. **The interpreter and 2D game runtime are still planned.**
 
-**Skills demonstrated:** Python · Parsing · Data structures · Automated testing
+**Skills demonstrated:** Python · Language design · Parsing · Data structures · Automated testing
 
-### PEGazu · Private
+### PEGazu — An Independent Research Idea · Private
 
-**Problem:** Quantitative research is difficult to evaluate when datasets, methods, and unsuccessful results cannot be reproduced.
+I started PEGazu to explore whether data infrastructure could eventually support an **AI-assisted system for researching trading strategies**. I began studying financial mathematics, chart patterns, and candlesticks. That interest developed into a more rigorous first step: **testing hypotheses against reproducible market data**, before considering any AI-based strategy generation.
 
-**Solution:** Research workflows using versioned datasets, predeclared hypotheses, statistical evaluation, and temporal replication. The tested hypothesis was **not supported**; the project does not claim a trading advantage or execute trades. **Source code remains private.**
+The implemented work includes versioned datasets, predeclared hypotheses, statistical evaluation, and temporal replication. The tested hypothesis was **not supported**, and that outcome was preserved as evidence. **There is no implemented AI strategy generator, automated trading, or demonstrated profitable strategy.** PEGazu operates independently from Centauro and its source code remains private.
 
 ### Centauro Atlas Bridge · Private
 
