@@ -18,9 +18,9 @@ I build software to solve problems in data processing, backend workflows, and de
 
 ### [Auren — My Programming Language Project](https://github.com/anthocab2/auren-lang) · Public
 
-I started Auren because I want to create my own programming language: expressive enough to evolve into a complex language, easier to read through clear English syntax, and eventually specialized for **2D games**.
+I created Auren to explore programming-language design through a real implementation. It is designed around clear English syntax, general-purpose programming fundamentals, and a long-term specialization in **2D game development**.
 
-The current Python prototype implements a lexer, recursive-descent parser, abstract syntax tree (AST), operator precedence, source-location errors, and automated tests. **The interpreter and 2D game runtime are still planned.**
+The current Python prototype implements a lexer, recursive-descent parser, abstract syntax tree (AST), operator precedence, source-location errors, and automated tests. **Program execution, the command-line interface, and 2D game capabilities are still planned.**
 
 **Skills demonstrated:** Python · Language design · Parsing · Data structures · Automated testing
 
