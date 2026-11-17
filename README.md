@@ -38,6 +38,27 @@ There is **no implemented AI strategy generator, automated trading system, or de
 
 **Solution:** Python infrastructure for bounded extraction, pagination, checkpoints, resumable ingestion, SHA-256 integrity verification, and idempotent storage. Selected engine code was reused in [Centauro Bridge](https://github.com/anthocab2/Centauro-Bridge/blob/main/docs/engine-provenance.json). **Original source remains private.**
 
+## Centauro evidence architecture
+
+I designed **Centauro Atlas Bridge** to keep data acquisition and verification separate from research. This is a simplified view of the **private ingestion infrastructure**, not a claim that every source is available in the public app.
+
+```mermaid
+flowchart TD
+    M["Market evidence<br/>Massive API"]
+    D["Documentary evidence<br/>SEC / issuer — bounded cases"]
+    P["Centauro Atlas Bridge<br/>Python ingestion"]
+    V["Provenance & integrity<br/>Hashes · receipts · checkpoints · recovery"]
+    A[("MongoDB Atlas<br/>Preserved evidence")]
+    R["Verified evidence for research"]
+    M --> P
+    D --> P
+    P --> V
+    V --> A
+    A --> R
+```
+
+The [public Centauro Bridge](https://github.com/anthocab2/Centauro-Bridge) reuses selected ingestion components for its **market-data research workflow and local Laboratory**. The private SEC/document recovery path is separate; no performance benchmark or public deployment is implied.
+
 **Additional public work:** [HBnB — Flask REST API coursework](https://github.com/anthocab2/holbertonschool-hbnb) · [Software Engineering Lab](https://github.com/anthocab2/software-engineering-lab)
 
 ## Technical skills
